@@ -1,7 +1,7 @@
 <h1 align="center">데브옵스 프로젝트 👍</h1>
 
 <div align="center">
-  <img src="사진.jpg"  style="zoom:76%;" align="center"/>
+  <img src="사진.jpg"  style="zoom:20%;" align="center"/>
 </div>
 
 > 박동휘
